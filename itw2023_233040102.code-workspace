@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Itw/itw2023_233040102"
+		},
+		{
+			"path": "../TugasBesarPorto"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../E-commerce"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TugasBesarPorto"
+	}
+}
