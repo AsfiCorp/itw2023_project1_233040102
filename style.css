@@ -181,7 +181,7 @@ h2 {
   display: flex;
   justify-content: space-between;
   align-content: center;
-  flex-wrap: wrap; /* activo la caida cuando el espacio no es suficiente horizontalmente */ 
+  flex-wrap: wrap; 
   /* height: 100px; */
   /* margin-bottom: 30px; */
   /* box-shadow: 0px 5px 10 5 black; */
@@ -301,8 +301,7 @@ figure {
   margin: 20px 40px;
   margin-top: -40px;
   background-color: white;
-  position: relative; /*con esto superpongo elementos encima de otros */
-  padding: 20px;
+  position: relative; 
   text-align: center;
 }
 
