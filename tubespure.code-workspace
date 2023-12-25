@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../TugasBesarPorto"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "TugasBesarPorto"
+	}
+}
