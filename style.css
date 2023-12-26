@@ -38,7 +38,7 @@ celeste: #026fff*/
 [class^="icon-"], [class*=" icon-"] {
   /* use !important to prevent issues with browser extensions that change fonts */
   font-family: 'icomoon' !important;
-  speak: none;
+  speak-as: none;
   font-style: normal;
   font-weight: normal;
   font-variant: normal;
@@ -95,7 +95,7 @@ h1 strong {
   background-color: #1d252c;
   flex-wrap: wrap;
   /* margin: 10px */
-  /* background-image: url('./images/sebastian.png'); */
+  /* background-image: url(''); */
   /* background-size: 275px 330px; */
   /* background-repeat: no-repeat; */
   /* background-position-x: right; */
@@ -103,7 +103,7 @@ h1 strong {
 
 .aboutme-image {
   object-fit: contain;
-  padding-left: 150%;
+  padding-left: inherit;
 }
 
 
